@@ -6,4 +6,3 @@
 
 ## Atualmente Estou Estudando Lógica de Programação Com o [Portugol](https://portugol.dev/)
 ---
-![Sophia Gadelha](https://github-readme-stats.vercel.app/api?username=sophiagadel &show_icons=true&theme=radical)
